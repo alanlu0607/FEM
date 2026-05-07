@@ -1,0 +1,8 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Lu
+    given-names: Alan
+title: "FDM and FEM Implementation"
+date-released: 2026-5-6
+url: "https://github.com/alanlu0607/FEM"
